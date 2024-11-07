@@ -28,4 +28,10 @@ This repository contains four projects focused on Exploratory Data Analysis (EDA
    
    Skills: Geographical data visualization, working with libraries such as GeoPandas.
 
+### Project_5: Digitalisation in the European Union
+
+   This Capstone Project "Digitalisation in the European Union" was a team effort with two of my colleagues and we analised different factors influencing the state of digitalisation in European countries. 
+   
+   Skills: Hypothesis Testing.
+   
 Moreover, the python notebooks "Conditions", "Dictionaries_and_Loops", and "Lists" show examples of the respective data structures.
