@@ -33,5 +33,11 @@ This repository contains four projects focused on Exploratory Data Analysis (EDA
    This Capstone Project "Digitalisation in the European Union" was a team effort with two of my colleagues and we analised different factors influencing the state of digitalisation in European countries. 
    
    Skills: Hypothesis Testing.
+
+### Project_6: API extraction. Weather and flight patters during a hurricane
+
+   This project focuses on getting data from external APIs. I will check how a weather event can affect flight patterns.
+   
+   Skills: APIs, visualisation.
    
 Moreover, the python notebooks "Conditions", "Dictionaries_and_Loops", and "Lists" show examples of the respective data structures.
